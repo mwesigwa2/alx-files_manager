@@ -1,4 +1,4 @@
-import { MongoClient } from 'mongodb';
+const { MongoClient } = require('mongodb');
 
 class DBClient {
   /**
@@ -10,6 +10,7 @@ class DBClient {
     this.port = process.env.DB_PORT || 27017;
     this.database = process.env.DB_DATABASE || 'files_manager';
     this.client = new MongoClient(`mongodb://${this.host}:${this.port}`, { useNewUrlParser: true, useUnifiedTopology: true });
+    this.connected = false;
   }
 
   /**
@@ -23,7 +24,6 @@ class DBClient {
       this.connected = true;
     } catch (error) {
       console.log('Error connecting to MongoDB: ', error);
-      this.connected = false;
     }
   }
 
@@ -32,7 +32,7 @@ class DBClient {
     * @returns {boolean}
     */
   isAlive() {
-    return this.connected();
+    return this.connected;
   }
 
   /**
