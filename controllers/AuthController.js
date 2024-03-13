@@ -47,8 +47,7 @@ export default class AuthController {
   // Get the disconnection
   static async getDisconnect(req, res) {
     // Get the token from the header
-    const { user } = req;
-    const token = user.headers['x-token'];
+    const token = req.headers['x-token'];
 
     // If the token does not exist, return an error
     if (!token) {
