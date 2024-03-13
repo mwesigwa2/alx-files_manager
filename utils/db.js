@@ -72,7 +72,7 @@ class DBClient {
    * @returns {Promise<Collection>} The users collection
    */
   async usersCollection() {
-    const db = this.client.db();
+    const db = this.client.db(this.database);
     return db.collection('users');
   }
 
@@ -81,7 +81,7 @@ class DBClient {
    * @returns {Promise<Collection>} The files collection
    */
   async filesCollection() {
-    const db = this.client.db();
+    const db = this.client.db(this.database);
     return db.collection('files');
   }
 }

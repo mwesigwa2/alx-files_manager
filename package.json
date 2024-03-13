@@ -1,7 +1,7 @@
 {
     "name": "files_manager",
     "version": "1.0.0",
-    "description": "",
+    "description": "A simple file management system",
     "main": "index.js",
     "scripts": {
         "lint": "./node_modules/.bin/eslint",
@@ -11,8 +11,8 @@
         "dev": "nodemon --exec babel-node --presets @babel/preset-env",
         "test": "./node_modules/.bin/mocha --require @babel/register --exit"
     },
-    "author": "",
-    "license": "ISC",
+    "author": "Kibirige Timothy and Aropet Joel",
+    "license": "MIT",
     "dependencies": {
         "bull": "^3.16.0",
         "chai-http": "^4.3.0",
@@ -32,6 +32,7 @@
         "@babel/node": "^7.8.0",
         "@babel/preset-env": "^7.8.2",
         "@babel/register": "^7.8.0",
+        "@types/mongodb": "^4.0.7",
         "chai": "^4.2.0",
         "chai-http": "^4.3.0",
         "eslint": "^6.4.0",
