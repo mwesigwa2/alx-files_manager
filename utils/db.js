@@ -66,6 +66,24 @@ class DBClient {
       return -1;
     }
   }
+
+  /**
+   * Returns the users collection
+   * @returns {Promise<Collection>} The users collection
+   */
+  async usersCollection() {
+    const db = this.client.db();
+    return db.collection('users');
+  }
+
+  /**
+   * Returns the files collection
+   * @returns {Promise<Collection>} The files collection
+   */
+  async filesCollection() {
+    const db = this.client.db();
+    return db.collection('files');
+  }
 }
 
 const dbClient = new DBClient();

@@ -5,7 +5,7 @@ import express from 'express';
  * @param {Object} app - The express app
  */
 const middleWare = (app) => {
-  app.use(express.static('public'));
+  app.use(express.json());
 };
 
 export default middleWare;
