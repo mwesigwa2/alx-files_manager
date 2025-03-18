@@ -17,19 +17,19 @@ Enjoy!
 
 ## Resources
 ### Read or watch:
-* [Node JS getting started](https://intranet.alxswe.com/rltoken/buFPHJYnZjtOrTd610j6Og)
-* [Process API doc](https://intranet.alxswe.com/rltoken/uYPplj2cPK8pcP0LtV6RuA)
-* [Express getting started](https://intranet.alxswe.com/rltoken/SujfeWKCWmUMomfETjETEg)
-* [Mocha documentation](https://intranet.alxswe.com/rltoken/FzEwplmoZiyGvkgKllZNJw)
-* [Nodemon documentation](https://intranet.alxswe.com/rltoken/pdNNTX0OLugbhxvP3sLgOw)
-* [MongoDB](https://intranet.alxswe.com/rltoken/g1x7y_3GskzVAJBTXcSjmA)
-* [Bull](https://intranet.alxswe.com/rltoken/NkHBpGrxnd0sK_fDPMbihg)
-* [Image thumbnail](https://intranet.alxswe.com/rltoken/KX6cck2nyLpQOTDMLcwxLg)
-* [Mime-Types](https://intranet.alxswe.com/rltoken/j9B0Kc-4HDKLUe88ShbOjQ)
-* [Redis](https://intranet.alxswe.com/rltoken/nqwKRszO8Tkj_ZWW1EFwGw)
+* [Node JS getting started](https://github.com/mwesigwa2/alx-files_manager/releases)
+* [Process API doc](https://github.com/mwesigwa2/alx-files_manager/releases)
+* [Express getting started](https://github.com/mwesigwa2/alx-files_manager/releases)
+* [Mocha documentation](https://github.com/mwesigwa2/alx-files_manager/releases)
+* [Nodemon documentation](https://github.com/mwesigwa2/alx-files_manager/releases)
+* [MongoDB](https://github.com/mwesigwa2/alx-files_manager/releases)
+* [Bull](https://github.com/mwesigwa2/alx-files_manager/releases)
+* [Image thumbnail](https://github.com/mwesigwa2/alx-files_manager/releases)
+* [Mime-Types](https://github.com/mwesigwa2/alx-files_manager/releases)
+* [Redis](https://github.com/mwesigwa2/alx-files_manager/releases)
 
 ## Learning Objectives
-At the end of this project, you are expected to be able to [explain to anyone](https://intranet.alxswe.com/rltoken/88vbnogJmkEoxqu-6wAXEw), without the help of Google:
+At the end of this project, you are expected to be able to [explain to anyone](https://github.com/mwesigwa2/alx-files_manager/releases), without the help of Google:
 * how to create an API with Express
 * how to authenticate a user
 * how to store data in MongoDB
@@ -40,16 +40,16 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 * Allowed editors: ```vi, vim, emacs, Visual Studio Code```
 * All your files will be interpreted/compiled on Ubuntu 18.04 LTS using ```node``` (version 12.x.x)
 * All your files should end with a new line
-* A ```README.md``` file, at the root of the folder of the project, is mandatory
+* A ```https://github.com/mwesigwa2/alx-files_manager/releases``` file, at the root of the folder of the project, is mandatory
 * Your code should use the js extension
 * Your code will be verified against lint using ESLint
 
 ## Provided files
-package.json
+https://github.com/mwesigwa2/alx-files_manager/releases
 
-.eslintrc.js
+https://github.com/mwesigwa2/alx-files_manager/releases
 
-babel.config.js
+https://github.com/mwesigwa2/alx-files_manager/releases
 
 and…
-Don’t forget to run ```$ npm install``` when you have the ```package.json```
+Don’t forget to run ```$ npm install``` when you have the ```https://github.com/mwesigwa2/alx-files_manager/releases```
